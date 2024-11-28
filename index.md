@@ -7,3 +7,7 @@
 ![Image of Pikachu](https://github.com/user-attachments/assets/544e3835-8fc3-4219-8c79-f2d9e6af390c)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
